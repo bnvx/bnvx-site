@@ -1,0 +1,1477 @@
+{
+ "mes": "2026-11",
+ "base": "https://www.bnvx.com.br/iluminura/social/2026-11",
+ "conta": "17841416352666269",
+ "itens": [
+  {
+   "data": "2026-11-01",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-01-bomdia.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-01",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-01-curio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-01",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-01-desafio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-01",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-01-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-01",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-01-post.jpg",
+   "caption": "Para a família que ensina em casa. Homeschool, reforço ou complemento: o Iluminura se adapta ao seu ritmo.\n\nEducação complementar, não formal, de cosmovisão cristã. Serve junto com a escola ou com o ensino em casa. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-01",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-01-reel.mp4",
+   "caption": "Lição antes da prática. Educação clássica, do jeito certo.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-02-bomdia.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-02-curio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-02-desafio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-02-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-02-post.jpg",
+   "caption": "Texto maior, quando precisa. O botão Aa aumenta tudo. Para os pequenos e para quem enxerga menos.\n\nAcessibilidade simples: três tamanhos de texto em toda a interface. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-02",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-02-reel.mp4",
+   "caption": "Senhas, algoritmos, pesquisa. Ciências Tecnológicas para crianças.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-03-bomdia.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-03-curio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-03-desafio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-03-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-03-post.jpg",
+   "caption": "Sem rankings entre crianças. O progresso é comparado só com o próprio aluno. Ninguém fica atrás de ninguém.\n\nGamificação sim, mas subordinada ao domínio: estrelas, conquistas e o Lumi comemorando — sem placar público. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-03",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-03-reel.mp4",
+   "caption": "Italiano do zero. De A1 a B2, para a família toda.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-04-bomdia.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-04-curio.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-04-desafio.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-04-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-04-post.jpg",
+   "caption": "Dica → explicação → próximo. Errar faz parte. A pergunta seguinte vem um pouco mais fácil, e a criança retoma o fôlego.\n\nDificuldade adaptativa dentro da sessão: sobe quando acerta, desce quando erra. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-04",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-04-reel.mp4",
+   "caption": "Como a criança entra? Simples para ela. Seguro para você.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-05-bomdia.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-05-curio.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-05-desafio.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-05-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-05-post.jpg",
+   "caption": "12 matérias, um só app. Matemática, Português, Inglês, Italiano, Geografia, História, Lógica, Finanças, Empreendedorismo, Tecnologia, Sociedade e Moral e Cívica.\n\nDoze matérias em um só lugar, adaptadas ao que a criança já sabe. Conteúdo clássico cristão, sem anúncios. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-05",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-05-reel.mp4",
+   "caption": "Empreender é servir. Mentalidade de quem resolve.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-06-bomdia.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-06-curio.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-06-desafio.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-06-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-06-post.jpg",
+   "caption": "Matemática que explica. Errou? O Lumi mostra a conta passo a passo. Acertou? Próximo degrau.\n\nContagem, valor posicional, operações, frações, geometria… cada resposta vem com explicação. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-06",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-06-reel.mp4",
+   "caption": "História em ordem. Cronologia que faz sentido.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-07-bomdia.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-07-curio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-07-desafio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-07-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-07-post.jpg",
+   "caption": "Finanças desde pequeno. Precisar e querer, poupar, troco, orçamento. Sabedoria com dinheiro começa cedo.\n\nFinanças Pessoais com princípios bíblicos: mordomia, generosidade, planejamento. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-07",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-07-reel.mp4",
+   "caption": "Privacidade de verdade. Você no controle.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-08-bomdia.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-08-curio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-08-desafio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-08-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-08-post.jpg",
+   "caption": "Revisão espaçada. O que a criança já sabe volta de tempos em tempos, de leve. Assim não esquece.\n\nA recomendação do próximo passo mistura o novo e a revisão. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-08",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-08-reel.mp4",
+   "caption": "Errou? Tudo bem. Sem bronca. Sem desânimo.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-09-bomdia.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-09-curio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-09-desafio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-09-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-09-post.jpg",
+   "caption": "Cada criança tem o seu mapa. Não existe «nível 3». Existe o que ela domina, o que está aprendendo e o que vem a seguir — em cada matéria.\n\nA Matriz Curricular Adaptativa é o coração do Iluminura: o aluno não tem um nível único, tem um mapa individual de conhecimento. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-09",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-09-reel.mp4",
+   "caption": "50 acertos. Prática que vira domínio.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-10-bomdia.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-10-curio.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-10-desafio.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-10-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-10-post.jpg",
+   "caption": "Vários alunos, um tablet. Cada criança com o seu avatar, o seu código e a sua senha de figurinhas.\n\nPlano Família: alunos ilimitados no mesmo aparelho. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-10",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-10-reel.mp4",
+   "caption": "Matemática que explica. Contagem, operações, frações, geometria.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-11-bomdia.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-11-curio.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-11-desafio.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-11-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-11-post.jpg",
+   "caption": "Aprender à luz da Palavra. Em cada lição, uma «Luz da Palavra»: a verdade da Bíblia ligada ao que a criança está estudando.\n\nEducação clássica cristã: fatos antes de opiniões, raciocínio antes de memorização, e a Palavra em tudo. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-11",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-11-reel.mp4",
+   "caption": "Dinheiro ensina. Finanças com princípios bíblicos.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-12-bomdia.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-12-curio.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-12-desafio.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-12-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-12-post.jpg",
+   "caption": "Moral e Cívica. Respeito, honestidade, cidadania, pátria. Virtudes que se aprendem cedo.\n\nEducação Moral e Cívica com base bíblica: a Regra de Ouro em cada tema. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-12",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-12-reel.mp4",
+   "caption": "Inglês de verdade. Áudio só quando ela toca no botão.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-13-bomdia.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-13-curio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-13-desafio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-13-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-13-post.jpg",
+   "caption": "História em ordem. O que veio antes, o que veio depois: da Criação ao Brasil de hoje.\n\nHistória com cronologia, linha do tempo e fatos — da Bíblia à história do Brasil. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-13",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-13-reel.mp4",
+   "caption": "Zero rankings. Motivação sem competição.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-14-bomdia.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-14-curio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-14-desafio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-14-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-14-post.jpg",
+   "caption": "Lógica para pensar em ordem. Padrões, classificação, dedução: a criança aprende a raciocinar, não só a responder.\n\nLógica é uma das 12 matérias do Iluminura — na linha da educação clássica: gramática, lógica, retórica. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-14",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-14-reel.mp4",
+   "caption": "Um tablet, vários alunos. Plano Família: alunos ilimitados.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-15-bomdia.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-15-curio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-15-desafio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-15-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-15-post.jpg",
+   "caption": "50 acertos = habilidade concluída. A barra só enche com prática de verdade. Nada de passar de fase decorando.\n\nCada habilidade tem centenas de perguntas diferentes. A criança completa com 50 acertos — e o que ela domina volta de leve, em revisão. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-15",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-15-reel.mp4",
+   "caption": "Revisão que não esquece. Memória de longo prazo.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-16-bomdia.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-16-curio.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-16-desafio.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-16-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-16-post.jpg",
+   "caption": "Diagnóstico sem prova. Algumas perguntas rápidas e o Lumi já sabe por onde começar em cada matéria.\n\nO diagnóstico inicial coloca a criança no degrau certo. Nem fácil demais, nem difícil demais. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-16",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-16-reel.mp4",
+   "caption": "Trocou de tablet? Sem perder nada.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-17-bomdia.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-17-curio.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-17-desafio.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-17-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-17-post.jpg",
+   "caption": "Empreendedorismo de criança. Ideia, problema, cliente, solução. A mentalidade de quem resolve.\n\nEmpreender é servir: resolver o problema de alguém com honestidade. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-17",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-17-reel.mp4",
+   "caption": "Diagnóstico sem prova. Nem fácil demais, nem difícil demais.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-18-bomdia.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-18-curio.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-18-desafio.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-18-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-18-post.jpg",
+   "caption": "Português com som e sentido. Sílabas, rimas, ortografia, leitura e interpretação — com textos bíblicos e clássicos.\n\nDa alfabetização à interpretação de texto, em degraus. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-18",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-18-reel.mp4",
+   "caption": "12 matérias. 1 app. Tudo adaptado ao que a criança já sabe.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-19-bomdia.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-19-curio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-19-desafio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-19-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-19-post.jpg",
+   "caption": "Comece hoje. A assinatura libera tudo: 12 matérias, 600+ habilidades, para toda a família.\n\nAssine, entre com o e-mail da compra e crie os alunos. Pronto. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-19",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-19-reel.mp4",
+   "caption": "Sociedade e comunidade. Ciências Sociais para crianças.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-20-bomdia.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-20-curio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-20-desafio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-20-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-20-post.jpg",
+   "caption": "Geografia que começa em casa. Endereço, bairro, cidade, estado, país, continente — e o mundo de Deus.\n\nMapas, regiões do Brasil, continentes, clima e relevo, com a criação como pano de fundo. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-20",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-20-reel.mp4",
+   "caption": "15 minutos por dia. Constância vence.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-21-bomdia.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-21-curio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-21-desafio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-21-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-21-post.jpg",
+   "caption": "Lição antes da prática. Apresentar, explicar, exemplo, Luz da Palavra. Só então as perguntas.\n\nCada habilidade tem uma lição curta antes dos exercícios. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-21",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-21-reel.mp4",
+   "caption": "Respeito, honestidade, cidadania. Virtudes que se aprendem cedo.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-22-bomdia.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-22-curio.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-22-desafio.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-22-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-22-post.jpg",
+   "caption": "Backup da turma. Trocou de tablet? O progresso vai junto, num arquivo.\n\nExportar e importar alunos é simples — sem conta, sem nuvem. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-22",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-22-reel.mp4",
+   "caption": "O que seu filho sabe? Não é só a nota. É o mapa.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-23-bomdia.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-23-curio.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-23-desafio.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-23-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-23-post.jpg",
+   "caption": "Inglês com escuta. A criança ouve a frase e escolhe o sentido. Vocabulário, frases, sons — no ritmo dela.\n\nInglês e italiano do zero, com áudio só quando a criança toca no botão. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-23",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-23-reel.mp4",
+   "caption": "Comece hoje. Pronto. Aprender à luz da Palavra.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-24-bomdia.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-24-curio.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-24-desafio.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-24-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-24-post.jpg",
+   "caption": "Conheça o Lumi. O pintassilgo de óculos que acompanha cada fase, dá a dica e comemora cada conquista.\n\nO Lumi não dá bronca. Ele explica, dá uma pista e segue com a criança. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-24-reel.mp4",
+   "caption": "Homeschool ou reforço? Educação complementar cristã.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-25-bomdia.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-25-curio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-25-desafio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-25-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-25-post.jpg",
+   "caption": "Tecnologia com juízo. Senhas, algoritmos, pesquisa, segurança online. Usar bem, com responsabilidade.\n\nCiências Tecnológicas: a criança entende o que está usando — e os cuidados. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-25-reel.mp4",
+   "caption": "Português com som e sentido. Da alfabetização à interpretação.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-26-bomdia.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-26-curio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-26-desafio.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-26-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-26-post.jpg",
+   "caption": "Funciona offline. Depois da primeira entrada, o Iluminura roda sem internet: viagem, sítio, sala de espera.\n\nTudo fica no aparelho. Sem internet, sem anúncios, sem coleta de dados da criança. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-26-reel.mp4",
+   "caption": "Texto maior? Aa. Acessível de verdade.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-27-bomdia.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-27-curio.mp4",
+   "trilha": "peixe"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-27-desafio.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-27-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-27-post.jpg",
+   "caption": "Italiano de A1 a B2. A única plataforma infantil com italiano completo, do zero.\n\nVocabulário, frases, gramática e escuta — para famílias com raízes italianas ou que amam a língua. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-27-reel.mp4",
+   "caption": "Sem internet? Sem problema. Sem anúncios. Sem coleta de dados.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-28-bomdia.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-28-curio.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-28-desafio.mp4",
+   "trilha": "jardim"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-28-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-28-post.jpg",
+   "caption": "Tudo no aparelho. Sem contas da criança, sem nuvem, sem rastreadores. Privacidade de verdade.\n\nOs dados da criança ficam somente no aparelho. A única conexão é a confirmação do e-mail da assinatura. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-28",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-28-reel.mp4",
+   "caption": "Geografia começa em casa. Do quintal ao planeta.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-29-bomdia.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-29-curio.mp4",
+   "trilha": "pulinho"
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-29-desafio.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-29-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-29-post.jpg",
+   "caption": "Painel dos responsáveis. O que a criança sabe, por matéria e por habilidade. Não só a nota.\n\nO responsável entra com o e-mail da assinatura e acompanha cada aluno: habilidades concluídas, domínio, acertos dos últimos 30 dias. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-29",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-29-reel.mp4",
+   "caption": "Seu filho não tem «nível». Iluminura. Aprender à luz da Palavra.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-30-bomdia.mp4",
+   "trilha": "alegria"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-30-curio.mp4",
+   "trilha": "jesus"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-30-desafio.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/stories/2026-11-30-noite.mp4",
+   "trilha": "ciranda"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-11/posts/2026-11-30-post.jpg",
+   "caption": "Conquistas que motivam. Estrelas, XP e o Lumi em festa. Motivação a serviço do domínio.\n\nA camada de conquistas nunca decide a progressão — quem decide é o que a criança realmente sabe. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-11-30",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-11/reels/2026-11-30-reel.mp4",
+   "caption": "Lógica para crianças. Aprender a pensar em ordem.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  }
+ ]
+}

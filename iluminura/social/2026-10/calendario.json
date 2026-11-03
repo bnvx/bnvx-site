@@ -1,0 +1,154 @@
+{
+ "mes": "2026-10",
+ "base": "https://www.bnvx.com.br/iluminura/social/2026-10",
+ "conta": "17841416352666269",
+ "itens": [
+  {
+   "data": "2026-10-29",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-29-bomdia.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-29-curio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-29-desafio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-29-noite.mp4",
+   "trilha": "graca"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-10/posts/2026-10-29-post.jpg",
+   "caption": "Aprender com o Lumi. Pose nova a cada fase: ele lê, pensa, comemora. E nunca dá bronca.\n\nO mascote do Iluminura acompanha cada degrau da criança — dica, explicação, festa no acerto. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-10-29",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/reels/2026-10-29-reel.mp4",
+   "caption": "Uma pergunta por vez. Sem prova longa. Sem susto.\n\nIluminura — plataforma de ensino adaptativa cristã, 12 matérias, para crianças. Sem anúncios, funciona offline.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-30-bomdia.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-30-curio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-30-desafio.mp4",
+   "trilha": "twinkle"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-30-noite.mp4",
+   "trilha": "frere"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-10/posts/2026-10-30-post.jpg",
+   "caption": "Uma pergunta por vez. Perguntas curtas, feedback imediato, explicação de cada resposta.\n\nNada de prova longa: a criança responde, entende e segue. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-10-30",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/reels/2026-10-30-reel.mp4",
+   "caption": "600+ habilidades. Um mapa completo para a infância.\n\nNo Iluminura cada criança tem o seu mapa de conhecimento: avança onde domina, pratica onde precisa. 12 matérias, conteúdo clássico cristão.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "07:30",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-31-bomdia.mp4",
+   "trilha": "manha"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "11:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-31-curio.mp4",
+   "trilha": "barco"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "17:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-31-desafio.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "20:45",
+   "tipo": "story",
+   "acao": "create_story",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/stories/2026-10-31-noite.mp4",
+   "trilha": "luz"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "12:15",
+   "tipo": "post",
+   "acao": "create_image_post",
+   "image_url": "https://www.bnvx.com.br/iluminura/social/2026-10/posts/2026-10-31-post.jpg",
+   "caption": "Do diagnóstico ao domínio. Descobrir onde está → praticar → revisar → dominar. Em cada habilidade.\n\nO ciclo do Iluminura em cada uma das 600+ habilidades. 🔗 Link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx"
+  },
+  {
+   "data": "2026-10-31",
+   "hora": "19:15",
+   "tipo": "reel",
+   "acao": "create_video_post",
+   "video_url": "https://www.bnvx.com.br/iluminura/social/2026-10/reels/2026-10-31-reel.mp4",
+   "caption": "Conheça o Lumi. O pintassilgo de óculos do Iluminura.\n\nPara famílias que querem ensino de verdade: lição, prática, revisão — e a Palavra em cada tema. Funciona sem internet.\n\n🔗 Assine pelo link na bio: bnvx.com.br/assinar\n\n#iluminura #educacaocrista #ensinoadaptativo #educacaoclassica #homeschool #criancas #aprenderbrincando #familiacrista #bnvx",
+   "share_to_feed": true
+  }
+ ]
+}
